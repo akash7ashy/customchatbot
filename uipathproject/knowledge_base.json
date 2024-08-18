@@ -1,0 +1,446 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hey there!"
+    },
+    {
+      "question": "how are you?",
+      "answer": "good"
+    },
+    {
+      "question": "hi",
+      "answer": "hi"
+    },
+    {
+      "question": "what is the capital of india?",
+      "answer": "india"
+    },
+    {
+      "question": "What are the start dates for the upcoming semester at PSNA College of Engineering and Technology?",
+      "answer": "The upcoming semester at PSNA College of Engineering and Technology starts on August 1st. Specific start dates for each course can be found on the college's official website."
+    },
+    {
+      "question": "What is the weekly schedule for the Computer Science Engineering course?",
+      "answer": "The Computer Science Engineering course follows a weekly schedule with classes from Monday to Friday, 9 AM to 4 PM. Lab sessions are held on Tuesdays and Thursdays from 2 PM to 4 PM"
+    },
+    {
+      "question": "What library services are available to students at PSNA College?",
+      "answer": "The PSNA College library offers extensive services including book lending, digital resources, study spaces, and research assistance. The library is open Monday to Saturday from 8 AM to 8 PM."
+    },
+    {
+      "question": "How do I apply for on-campus housing?",
+      "answer": "To apply for on-campus housing, visit the housing office's page on our website and complete the application form. The deadline for applications is July 31st."
+    },
+    {
+      "question": "What career services are offered by the university?",
+      "answer": "Our career services include resume workshops, career counseling, job fairs, and internship placements. You can schedule an appointment or find more information on our career services page."
+    },
+    {
+      "question": "I'm having trouble registering for my courses. Can you help?",
+      "answer": "If you are experiencing issues with course registration, please ensure you have met all prerequisites and that there are no holds on your account. For detailed assistance, visit our registration help page or contact the registrar's office at registrar@example.com."
+    },
+    {
+      "question": "Where can I find information about tuition fees and payment deadlines?",
+      "answer": "Where can I find information about tuition fees and payment deadlines?\" Response: \"Information about tuition fees and payment deadlines is available on the bursar's office page on our website. You can also contact the bursar's office directly at bursar@example.com."
+    },
+    {
+      "question": "What should I do if I need to withdraw from a course?",
+      "answer": "If you need to withdraw from a course, please complete the withdrawal form available on the registrar's office page. Ensure you review the withdrawal deadlines and any potential impacts on your tuition and financial aid."
+    },
+    {
+      "question": "How can I get technical support for the online learning platform?",
+      "answer": "\"For technical support with the online learning platform, please visit our IT support page where you can find FAQs, troubleshooting guides, and contact information for live support"
+    },
+    {
+      "question": "Can I speak with an academic advisor about my course plan?",
+      "answer": "Yes, you can schedule an appointment with an academic advisor through the advising office's page on our website. Advisors are available for virtual and in-person meetings."
+    },
+    {
+      "question": "How can I access the counseling services at PSNA College?",
+      "answer": "Students can access counseling services by scheduling an appointment through the counseling center's page on the PSNA College website or by visiting the center located in the main building."
+    },
+    {
+      "question": "What are the operating hours for the student health center?",
+      "answer": "The student health center at PSNA College operates from Monday to Friday, 9 AM to 5 PM. For emergencies outside these hours, students can contact the on-call doctor."
+    },
+    {
+      "question": "\"What are the official college hours at PSNA College?",
+      "answer": "The official college hours at PSNA College are from 8:30 AM to 4:30 PM, Monday to Friday. Administrative offices are open from 9 AM to 5 PM."
+    },
+    {
+      "question": "What is the fees structure for the B.Tech programs?",
+      "answer": "The fees for B.Tech programs at PSNA College vary by department. On average, the annual tuition fee is approximately INR 1,00,000. Additional fees for lab, library, and other services apply. Detailed fee structures are available on the college's official website"
+    },
+    {
+      "question": "Are there any scholarships available?",
+      "answer": "Yes, PSNA College offers several scholarships based on merit and need. Information on available scholarships and eligibility criteria can be found on the college's scholarship page."
+    },
+    {
+      "question": "How many courses are offered at PSNA College?",
+      "answer": "PSNA College offers a total of 15 undergraduate and 10 postgraduate programs across various engineering, technology, and management disciplines. A full list of courses is available on the college's academic programs page."
+    },
+    {
+      "question": "How many students were placed in companies last year?",
+      "answer": "Last year, over 500 students from PSNA College were placed in various reputed companies. The placement cell provides extensive support and training to ensure high placement rates."
+    },
+    {
+      "question": "Which companies recruited from PSNA College last year?",
+      "answer": "Companies such as TCS, Infosys, Wipro, Cognizant, and HCL were among the top recruiters at PSNA College last year. The full list of recruiters is available on the placement cell page."
+    },
+    {
+      "question": "What are the recent achievements of PSNA College in sports?",
+      "answer": "PSNA College has excelled in various sports, winning several inter-college tournaments in cricket, football, and basketball. The college's cricket team recently won the state-level championship"
+    },
+    {
+      "question": "What other notable achievements have PSNA College students attained?",
+      "answer": "Students at PSNA College have achieved remarkable success in academic competitions, hackathons, and cultural events. Recently, a team from the college won the national-level hackathon organized by a leading tech company."
+    },
+    {
+      "question": "How many departments are there at PSNA College of Engineering and Technology?",
+      "answer": "There are 15 departments at PSNA College of Engineering and Technology, covering a wide range of engineering, technology, and management disciplines. Here are the details:"
+    },
+    {
+      "question": "Can you list the departments in PSNA College?",
+      "answer": "Undergraduate Programs Department of Civil Engineering Department of Mechanical Engineering Department of Electrical and Electronics Engineering Department of Electronics and Communication Engineering Department of Computer Science and Engineering Department of Information Technology Department of Automobile Engineering Department of Biomedical Engineering Postgraduate Programs Master of Business Administration (MBA) Master of Computer Applications (MCA) M.E. in Power Electronics and Drives M.E. in Communication Systems M.E. in Computer Science and Engineering M.E. in Engineering Design M.E. in Structural Engineering M.E. in VLSI Design"
+    },
+    {
+        "question": "How many faculties are in Computer Science and Business System in PSNA College?",
+        "answer": "The Computer Science and Business System department at PSNA College has a dedicated team of 20 faculty members, who are highly qualified and experienced in their respective fields."
+    },
+    {
+        "question": "What are the hostel facilities available at PSNA College?",
+        "answer": "PSNA College offers separate hostel facilities for boys and girls with amenities such as Wi-Fi, study rooms, recreational areas, and mess services providing nutritious meals."
+      },
+      {
+        "question": "How can I apply for hostel accommodation?",
+        "answer": "You can apply for hostel accommodation during the admission process. There is an option to fill out a hostel application form, and rooms are allotted on a first-come, first-served basis."
+      },
+      {
+        "question": "Does PSNA College provide transportation facilities?",
+        "answer": "Yes, PSNA College provides transportation facilities with a fleet of buses covering various routes across the city and nearby areas. The transportation fee varies based on the distance from the college."
+      },
+      {
+        "question": "How can I find the bus route and schedule?",
+        "answer": "The bus routes and schedules are available on the college website under the 'Transportation' section. You can also contact the transportation office for detailed information."
+      },
+      {
+        "question": "Are there any scholarships available for students?",
+        "answer": "Yes, PSNA College offers various scholarships based on academic performance, economic background, and other criteria. Details about the scholarships can be found on the college website."
+      },
+      {
+        "question": "How can I apply for a scholarship?",
+        "answer": "To apply for a scholarship, you need to fill out the scholarship application form available on the college website and submit it along with the required documents to the scholarship office."
+      },
+      {
+        "question": "What cultural clubs are available at PSNA College?",
+        "answer": "PSNA College has several cultural clubs such as the Music Club, Dance Club, Drama Club, and Art Club, where students can showcase their talents and participate in various cultural events."
+      },
+      {
+        "question": "How can I join a club or society?",
+        "answer": "Students can join clubs or societies by signing up during the club registration week or by contacting the respective club coordinators. Information about clubs and societies is available on the college website."
+      },
+      {
+        "question": "What lab facilities are available for Mechanical Engineering students?",
+        "answer": "Mechanical Engineering students have access to well-equipped labs such as the Fluid Mechanics Lab, Thermal Engineering Lab, CAD/CAM Lab, and more, providing hands-on experience with modern equipment and software."
+      },
+      {
+        "question": "Are there any research facilities available?",
+        "answer": "Yes, PSNA College has dedicated research facilities and centers for various departments, encouraging students and faculty to engage in cutting-edge research and innovation."
+      },
+      {
+        "question": "What health services are available on campus?",
+        "answer": "The college has an on-campus health center providing medical services, first aid, and routine health check-ups. There is also a tie-up with nearby hospitals for emergencies."
+      },
+      {
+        "question": "Are there any fitness facilities available?",
+        "answer": "Yes, the college has a fitness center and gymnasium equipped with modern fitness equipment. There are also sports facilities for outdoor and indoor games to promote physical well-being."
+      },
+      {
+        "question": "How can I connect with PSNA College alumni?",
+        "answer": "The college has an active alumni association. You can connect with alumni through the official alumni network platform available on the college website or by participating in alumni events and meetups."
+      },
+      {
+        "question": "Are there any mentorship programs available?",
+        "answer": "Yes, PSNA College offers mentorship programs where experienced alumni and industry professionals guide current students in their academic and career pursuits."
+      },
+      {
+        "question": "What events are held at PSNA College?",
+        "answer": "PSNA College hosts a variety of events throughout the year, including technical symposiums, cultural festivals, sports meets, guest lectures, and workshops. These events provide a platform for students to learn and showcase their skills."
+      },
+      {
+        "question": "How can I participate in conferences and workshops?",
+        "answer": "Students can participate in conferences and workshops by registering through the college website or the event coordinators. Keep an eye on the college notice board and website for upcoming events."
+      },
+      {
+        "question": "Does PSNA College offer any international exchange programs?",
+        "answer": "Yes, PSNA College has collaborations with several international universities, offering student exchange programs and opportunities for global exposure. Details can be found on the international programs section of the college website."
+      },
+      {
+        "question": "How can I apply for an international exchange program?",
+        "answer": "To apply for an international exchange program, you need to check the eligibility criteria and submit an application through the international office at PSNA College. The application process includes interviews and selection based on academic performance."
+      },
+      {
+        "question": "Where is PSNA College of Engineering and Technology located?",
+        "answer": "PSNA College of Engineering and Technology is located in Dindigul, Tamil Nadu, India. The campus is well-connected by road and easily accessible."
+      },
+      {
+        "question": "What is the contact information for PSNA College?",
+        "answer": "You can contact PSNA College at [insert phone number] or email at [insert email address]. The administrative office is open from 9 AM to 5 PM, Monday to Friday."
+      },
+      {
+        "question": "What is the bus fee structure for students from Dindigul?",
+        "answer": "The bus fee for students from Dindigul to PSNA College of Engineering and Technology is approximately INR 10,000 per semester. This fee covers the daily transportation to and from the college."
+      },
+      {
+        "question": "What is the bus fee structure for students from Madurai?",
+        "answer": "The bus fee for students from Madurai to PSNA College of Engineering and Technology is approximately INR 15,000 per semester. This fee includes the daily commute to and from the college."
+      },
+      {
+        "question": "Can you give me an overview of the transportation facilities and fees?",
+        "answer": "PSNA College provides extensive transportation facilities covering various routes. The bus fee for students from Dindigul is around INR 10,000 per semester, while for students from Madurai, it is about INR 15,000 per semester. The transportation service ensures a safe and convenient daily commute for all students."
+      },
+      {
+        "question": "How do I pay the bus fees?",
+        "answer": "Bus fees can be paid online through the college's official website or directly at the administrative office. Payment details and deadlines will be communicated at the beginning of each semester."
+      },
+      {
+        "question": "What happens if I miss the bus?",
+        "answer": "If you miss the bus, you will need to make your own arrangements to reach the college. It's recommended to reach the bus stop at least 10 minutes before the scheduled departure time to avoid any inconvenience."
+      },
+      {
+        "question": "Are there any concessions on bus fees for economically weaker students?",
+        "answer": "PSNA College offers concessions on bus fees for economically weaker students on a case-by-case basis. Students can apply for concessions by submitting the required documents and proof of income to the administrative office."
+      },
+      {
+        "question": "What are the transportation options for students living in Dindigul?",
+        "answer": "Students living in Dindigul can avail themselves of the college bus service, which costs around INR 10,000 per semester. The bus service provides a safe and reliable mode of transportation to and from the college daily."
+      },
+      {
+        "question": "Tell me about the transportation options and costs for students from Madurai.",
+        "answer": "Students from Madurai can use the college bus service, which costs approximately INR 15,000 per semester. This service ensures that students have a comfortable and timely commute to the college."
+      },
+      {
+        "question": "What accreditation does PSNA College of Engineering and Technology have?",
+        "answer": "PSNA College of Engineering and Technology is accredited by the National Board of Accreditation (NBA) and the National Assessment and Accreditation Council (NAAC) with an 'A' grade."
+      },
+      {
+        "question": "What is the admission process for undergraduate courses?",
+        "answer": "The admission process for undergraduate courses at PSNA College is based on the Tamil Nadu Engineering Admissions (TNEA) counseling process. Students must have completed their higher secondary education and must apply through the TNEA counseling portal."
+      },
+      {
+        "question": "What postgraduate courses are offered at PSNA College?",
+        "answer": "PSNA College offers postgraduate courses in various disciplines, including M.E. in different specializations, MBA, and MCA. Detailed information about the courses and specializations is available on the college website."
+      },
+      {
+        "question": "What is the eligibility criteria for the MBA program?",
+        "answer": "To be eligible for the MBA program at PSNA College, candidates must have a bachelor's degree in any discipline with a minimum aggregate of 50% marks. They must also qualify for the TANCET (Tamil Nadu Common Entrance Test) or any other state/national level entrance exam."
+      },
+      {
+        "question": "Does PSNA College offer any Ph.D. programs?",
+        "answer": "Yes, PSNA College offers Ph.D. programs in various engineering, technology, and management disciplines. Interested candidates can apply through the Anna University Ph.D. admission portal."
+      },
+      {
+        "question": "What are the library facilities available?",
+        "answer": "The PSNA College library is well-equipped with a vast collection of books, journals, e-books, and research papers. It provides access to digital resources, study areas, and a computer lab for research and learning."
+      },
+      {
+        "question": "What are the campus amenities at PSNA College?",
+        "answer": "The campus amenities at PSNA College include modern classrooms, well-equipped laboratories, Wi-Fi connectivity, sports facilities, a gymnasium, a health center, and cafeteria services."
+      },
+      {
+        "question": "How can I apply for internships through PSNA College?",
+        "answer": "Students can apply for internships through the college's placement cell, which has tie-ups with various companies and organizations. The placement cell regularly updates students about internship opportunities and assists in the application process."
+      },
+      {
+        "question": "What is the dress code for students at PSNA College?",
+        "answer": "PSNA College has a formal dress code for students. Boys are required to wear formal shirts and trousers, while girls should wear formal salwar kameez or sarees. Casual wear is not allowed during college hours."
+      },
+      {
+        "question": "What anti-ragging measures are in place at PSNA College?",
+        "answer": "PSNA College has a strict anti-ragging policy. An anti-ragging committee is in place to address and prevent any incidents of ragging. Students can report any ragging activities to the committee for immediate action."
+      },
+      {
+        "question": "Are there any student exchange programs available?",
+        "answer": "Yes, PSNA College has student exchange programs in collaboration with international universities. These programs provide students with global exposure and learning opportunities. Details are available on the international programs section of the college website."
+      },
+      {
+        "question": "What are the research opportunities at PSNA College?",
+        "answer": "PSNA College encourages research and innovation through its dedicated research centers and labs. Students and faculty members can participate in various research projects, publish papers, and attend conferences."
+      },
+      {
+        "question": "How does PSNA College support startups and entrepreneurship?",
+        "answer": "PSNA College has an Entrepreneurship Development Cell (EDC) that supports and nurtures student startups. The EDC provides mentorship, resources, and networking opportunities to aspiring entrepreneurs."
+      },
+      {
+        "question": "What is the grievance redressal mechanism at PSNA College?",
+        "answer": "PSNA College has a grievance redressal cell to address student complaints and concerns. Students can submit their grievances through the online portal or directly to the grievance cell office."
+      },
+      {
+        "question": "What are the safety measures on campus?",
+        "answer": "PSNA College prioritizes the safety of its students and staff. The campus is equipped with CCTV surveillance, security personnel, and emergency response teams to ensure a safe environment."
+      },
+      {
+        "question": "Are there any student clubs for technical skills development?",
+        "answer": "Yes, PSNA College has various technical clubs such as the Robotics Club, Coding Club, and Electronics Club. These clubs conduct workshops, competitions, and projects to enhance technical skills."
+      },
+      {
+        "question": "What is the procedure for getting transcripts from PSNA College?",
+        "answer": "Students can apply for transcripts through the college's examination cell. The application form is available on the college website. Completed forms should be submitted along with the required fee for processing."
+      },
+      {
+        "question": "How can I request a duplicate certificate?",
+        "answer": "To request a duplicate certificate, students need to submit an application to the college's administrative office along with an affidavit, police report (in case of loss), and the prescribed fee."
+      },
+      {
+        "question": "What are the dining options available on campus?",
+        "answer": "PSNA College offers various dining options, including a cafeteria and food stalls that provide a variety of cuisines. The food services ensure hygiene and cater to the dietary preferences of students."
+      },
+      {
+        "question": "Are there any language learning programs at PSNA College?",
+        "answer": "Yes, PSNA College offers language learning programs and courses in English and other foreign languages to enhance students' communication skills and prepare them for global opportunities."
+      },
+      {
+        "question": "How can I access online learning resources?",
+        "answer": "Students can access online learning resources through the college's digital library portal. This includes e-books, research journals, and online courses available to all registered students."
+      },
+      {
+        "question": "What is the process for applying for revaluation of exam papers?",
+        "answer": "Students can apply for revaluation of exam papers by submitting a revaluation form along with the required fee to the examination cell within the specified deadline after the results are declared."
+      },
+      {
+        "question": "What initiatives are taken by the college for environmental sustainability?",
+        "answer": "PSNA College undertakes various initiatives for environmental sustainability, including tree plantation drives, waste management programs, and awareness campaigns on environmental conservation."
+      },
+      {
+        "question": "What is the book fees structure for the courses?",
+        "answer": "The book fees for various courses at PSNA College range from INR 1,000 to INR 3,000 per semester, depending on the course requirements and subjects."
+      },
+      {
+        "question": "What are the common destinations for industrial visits?",
+        "answer": "Students at PSNA College commonly visit industries in Chennai, Bangalore, and Coimbatore. The cost of industrial visits varies but generally ranges from INR 2,000 to INR 5,000."
+      },
+      {
+        "question": "How many canteens are available in the college?",
+        "answer": "There are three canteens available on the PSNA College campus, offering a variety of food options for students and staff."
+      },
+      {
+        "question": "What are the hostel rules and regulations for men?",
+        "answer": "The men's hostel at PSNA College has specific rules, including strict timings for entry and exit, maintaining cleanliness, and adhering to a study schedule. Visitors are allowed only with prior permission."
+      },
+      {
+        "question": "What are the hostel rules and regulations for women?",
+        "answer": "The women's hostel at PSNA College has rules such as fixed entry and exit timings, maintaining discipline, and restrictions on visitors. Safety and security measures are strictly enforced."
+      },
+      {
+        "question": "What scholarships are available for sports quota students?",
+        "answer": "PSNA College offers scholarships for sports quota students based on their performance in sports at the state and national levels. These scholarships cover tuition fees and provide additional benefits."
+      },
+      {
+        "question": "What is the salary of an Assistant Professor at PSNA College?",
+        "answer": "The salary of an Assistant Professor at PSNA College ranges from INR 40,000 to INR 60,000 per month, depending on qualifications and experience."
+      },
+      {
+        "question": "What are the hostel fees for students at PSNA College?",
+        "answer": "The hostel fees for students at PSNA College range from INR 15,000 to INR 25,000 per semester, depending on the type of accommodation and facilities provided."
+      },
+      {
+        "question": "How can students apply for scholarships at PSNA College?",
+        "answer": "Students can apply for scholarships through the college’s scholarship cell. Applications are usually submitted online, and eligibility criteria vary based on the type of scholarship."
+      },
+      {
+        "question": "Are there any cultural events organized at PSNA College?",
+        "answer": "Yes, PSNA College organizes various cultural events throughout the academic year, including annual festivals, inter-college competitions, and cultural fests."
+      },
+      {
+        "question": "What are the sports facilities available at PSNA College?",
+        "answer": "PSNA College offers sports facilities including a football ground, cricket pitch, basketball court, badminton courts, and a gymnasium. Regular sports activities and tournaments are conducted."
+      },
+      {
+        "question": "What is the procedure for availing library resources?",
+        "answer": "Students can avail library resources by registering at the library, obtaining a library card, and then accessing books, journals, and digital resources as per the library’s borrowing policy."
+      },
+      {
+        "question": "What are the key features of the campus Wi-Fi?",
+        "answer": "The campus Wi-Fi at PSNA College is high-speed, providing internet access across the campus. Students can connect their devices using their college credentials, and the Wi-Fi network is secure."
+      },
+      {
+        "question": "How does the placement cell assist students?",
+        "answer": "The placement cell at PSNA College assists students by organizing campus interviews, providing career counseling, resume building workshops, and job placement opportunities with various companies."
+      },
+      {
+        "question": "What is the policy on attendance at PSNA College?",
+        "answer": "PSNA College has a strict attendance policy requiring students to maintain a minimum attendance percentage to be eligible for exams. Regular attendance is monitored and enforced."
+      },
+      {
+        "question": "What extracurricular activities are available at PSNA College?",
+        "answer": "PSNA College offers a variety of extracurricular activities including music, dance, drama, art, and literary clubs. Students can participate in these activities as per their interests."
+      },
+      {
+        "question": "How are students involved in research projects?",
+        "answer": "Students can get involved in research projects through their departments, by collaborating with faculty members, or by joining research labs and centers established within the college."
+      },
+      {
+        "question": "What are the key features of the college's health center?",
+        "answer": "The college's health center provides medical services including first aid, routine check-ups, emergency care, and health awareness programs. It is staffed with qualified medical personnel."
+      },
+      {
+        "question": "What is the process for student feedback at PSNA College?",
+        "answer": "Students can provide feedback through the online feedback system available on the college portal or directly to the concerned department. Feedback is reviewed regularly to improve services and facilities."
+      },
+      {
+        "question": "Are there any mentorship programs available for students?",
+        "answer": "Yes, PSNA College has mentorship programs where senior students and faculty members guide and mentor junior students in their academic and personal development."
+      },
+      {
+        "question": "What is the procedure for changing courses or specializations?",
+        "answer": "Students wishing to change courses or specializations must apply through the academic office. The request is subject to approval based on availability, academic performance, and college policies."
+      },
+      {
+        "question": "What is the college's policy on academic integrity?",
+        "answer": "PSNA College upholds strict academic integrity policies. Plagiarism, cheating, and any form of academic dishonesty are prohibited and subject to disciplinary action."
+      },
+      {
+        "question": "Are there any international collaborations for research and development?",
+        "answer": "Yes, PSNA College has collaborations with international universities and research institutions for joint research projects, student exchanges, and academic collaborations."
+      },
+      {
+        "question": "What is the process for obtaining a no-objection certificate (NOC)?",
+        "answer": "Students can obtain a no-objection certificate (NOC) by submitting a request to the administrative office along with any supporting documents and the purpose for which the NOC is needed."
+      },
+      {
+        "question": "When was the Computer Science and Business Systems Department established at PSNA College?",
+        "answer": "The Computer Science and Business Systems Department at PSNA College of Engineering and Technology was established in 2002."
+      },
+      {
+        "question": "How many students get placed from the Computer Science and Business Systems Department?",
+        "answer": "On average, around 85% of students from the Computer Science and Business Systems Department get placed each year."
+      },
+      {
+        "question": "Which companies usually visit the Computer Science and Business Systems Department for placements?",
+        "answer": "Companies such as TCS, Infosys, Wipro, Cognizant, IBM, and Accenture regularly visit the Computer Science and Business Systems Department for campus placements."
+      },
+      
+    
+      {
+        "question": "What are some of the achievements of students in the Computer Science and Business Systems Department?",
+        "answer": "Students from the Computer Science and Business Systems Department have achieved notable success in various hackathons, including winning the Smart India Hackathon. They have also excelled in national and international coding competitions."
+      },
+      
+      {
+        "question": "What events are conducted in the Computer Science and Business Systems Department?",
+        "answer": "The Computer Science and Business Systems Department conducts various events such as coding competitions, workshops, seminars, and technical fests. The annual tech fest includes events like hackathons, coding challenges, and guest lectures from industry experts."
+      },
+     
+          {
+            "question": "Who is the current Head of the Computer Science and Business Systems Department at PSNA College?",
+            "answer": "The current Head of the Computer Science and Business Systems Department is Dr. S. Pavalrajan, M.E., Ph.D, MBA."
+          },
+          {
+            "question": "Who are the faculty members of the Computer Science and Business Systems Department at PSNA College?",
+            "answer": "The faculty members of the Computer Science and Business Systems Department are:\n\n1. Dr. S. Pavalrajan (Professor & Head) - M.E., Ph.D, MBA\n2. Dr. S. Shahul Hammed (Assistant Professor) - M.E., Ph.D. (Joined on 21.01.2021)\n3. Mrs. C. Preethi (Assistant Professor) - M.E. (Joined on 21.01.2021)\n4. Mrs. K. Haripriya (Assistant Professor) - M.E. (Joined on 11.11.2021)\n5. Mrs. M. Jothi (Assistant Professor) - M.E. (Joined on 11.11.2022)\n6. Mrs. A. Meenambika (Assistant Professor) - M.E. (Joined on 02.01.2023)\n7. Mrs. D. Yuvsini (Assistant Professor) - M.E. (Joined on 01.06.2023)\n8. Ms. P. S. Abarna (Assistant Professor) - M.E. (Joined on 23.11.2023)\n9. Mrs. S. Padma Priya (Assistant Professor) - M.E. (Joined on 06.12.2023)\n10. Mrs. S. Sudha (Assistant Professor) - M.E. (Joined on 03.06.2024)\n11. Mrs. N. Anulavanya (Assistant Professor) - M.E. (Joined on 15.07.2024)"
+          }
+        ]
+      }
+      
+  
